@@ -25,6 +25,9 @@
   margin: 1px 1px 0px 0px;
   filter: drop-shadow(0 0 0px rgba(0, 0, 0, 1));
   transition: .5s;
+  max-width: none;
+  width: auto;
+  height: auto;
 }
 .badge{
   image-rendering: pixelated;
@@ -33,12 +36,15 @@
   margin: 1px 1px 0px 0px;
   filter: drop-shadow(0 0 0px rgba(0, 0, 0, 1));
   transition: .5s;
+  max-width: none;
+  width: auto;
+  height: auto;
 }
 .stamp:hover{
   image-rendering: pixelated;
   position: relative;
   z-index: 1;
-  transform: scale(2);
+  transform: scale(1.5);
   background-color: transparent;
   filter: drop-shadow(6px 6px 0px rgba(0, 0, 0, 0.2));
   transition: .1s;
@@ -384,8 +390,8 @@ header {
   }
 
   img {
-    max-width: 40px;
-    height: 40px;
+    max-width: 100%;
+    height: auto;
   }
   
   ul, ol {

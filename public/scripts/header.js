@@ -1,7 +1,7 @@
 const HEAD = document.getElementById("header");
 HEAD.innerHTML = `
     <header>
-      <div class="header-center"><img src="/assets/construction2.png" width="465" height="28" alt="Under Construction"></div>
+      <div class="header-center"><a href="/construction.html"><img class="badge" src="/assets/construction2.png" width="465" height="28" alt="Under Construction"></a></div>
       <div class="home-boxes">
         <section class="home-box">
           <h2>The Witch of the Woods</h2>

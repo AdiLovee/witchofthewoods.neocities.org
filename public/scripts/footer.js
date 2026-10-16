@@ -18,7 +18,7 @@ FOOT.innerHTML = `
     <div>
       <p>Link me!</p>
       <a href="/index.html">
-        <img src="/assets/sitebutton.gif" alt="Witch of the Woods Button">
+        <img class="badge" src="/assets/sitebutton.gif" alt="Witch of the Woods Button">
       </a>
       <p>
         If you like my site, feel free to save my button and share it on your site!
@@ -55,7 +55,7 @@ FOOT.innerHTML = `
   🕯 ⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆ ⛥ ⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆ 🕯
       </span>
     </pre>
-    <img src="/assets/construction2.png" width="465" height="28" alt="Under Construction">
+    <a href="/construction.html"><img class="badge" src="/assets/construction2.png" width="465" height="28" alt="Under Construction"></a>
   </center>
   <p>
     <a target="_blank" href="https://icons8.com/icon/bPaE2LXiRLQy/triquetra">Triquetra</a> favicon by 
