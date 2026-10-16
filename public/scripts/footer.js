@@ -3,10 +3,17 @@ FOOT.innerHTML = `
   <hr>
   <br>
   <center>
+    <ws-widget type="moon" iid="21075" embed="iframe"></ws-widget>
     <div>
-      🐱<a href="https://xandra.cc/patrons" target="_new">Freyja watches over this website.</a>🐱<br><br>
-      <a href="https://bdsmovement.net/"> <img src="/assets/stamps/palestine.gif">
-      <a href="https://plasticdino.neocities.org/"> <img src="/assets/stamps/queer.png">
+      <a href="https://xandra.cc/patrons" target="_new"><img class="badge" src="/assets/stamps/patrons.png"></a><br>
+      🐱<a href="/entries/freyja.html">Freyja</a> watches over this website.🐱<br>
+      <img src="/assets/crow-flipped.png" style=height:18px; width:18px;><a href="/entries/the_morrigan.html">The Morrígan</a> watches over this website.<img src="/assets/crow.png" style=height:18px; width:18px;><br><br>
+      <a href="https://bdsmovement.net/"> <img class="badge" src="/assets/stamps/palestine.gif"></a>
+      <a href="https://plasticdino.neocities.org/"> <img class="badge" src="/assets/stamps/queer.png"></a>
+      <img class="badge" src="/assets/stamps/imwitch.gif">
+      <br>
+      <img class="stamp" src="/assets/stamps/she her hers.png">
+      <img class="stamp" src="/assets/stamps/pagan stamp.png">
     </div>
     <br>
     <div>
