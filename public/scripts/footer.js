@@ -4,17 +4,25 @@ FOOT.innerHTML = `
   <br>
   <center>
     <div>
+      🐱<a href="https://xandra.cc/patrons" target="_new">Freyja watches over this website.</a>🐱<br><br>
+      <a href="https://bdsmovement.net/"> <img src="/assets/stamps/palestine.gif">
+      <a href="https://plasticdino.neocities.org/"> <img src="/assets/stamps/queer.png">
+    </div>
+    <br>
+    <div>
       <p>Link me!</p>
       <a href="/index.html">
         <img src="/assets/sitebutton.gif" alt="Witch of the Woods Button">
       </a>
       <p>
-        If you like my site, feel free to save my button!
+        If you like my site, feel free to save my button and share it on your site!
       </p>
       <textarea readonly onclick="this.select();">
         "<a href="https://witchofthewoods.neocities.org/"> <img src=https://witchofthewoods.neocities.org/assets/sitebutton.gif" alt="Witch of the Woods Button"> </a>"
       </textarea>
     </div>
+    <br>
+    <hr>
     <br>
     <div>
       Witch of the Woods is a reference and a practice space.<br>
