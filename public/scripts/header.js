@@ -8,6 +8,7 @@ HEAD.innerHTML = `
         A website by Adinah Matthews
         <nav class="site-nav">
           <ul>
+            <li><a href="/index.html">Home</a></li>
             <li><a href="/grimoire.html">Grimoire</a></li>
             <li><a href="/about.html">About Me</a></li>
             <li><a href="/sites.html">Other Sites</a></li>
