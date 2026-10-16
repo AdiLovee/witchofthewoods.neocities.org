@@ -3,7 +3,6 @@ FOOT.innerHTML = `
   <hr>
   <br>
   <center>
-    <ws-widget type="moon" iid="21075" embed="iframe"></ws-widget>
     <div>
       <a href="https://xandra.cc/patrons" target="_new"><img class="badge" src="/assets/stamps/patrons.png"></a><br>
       🐱<a href="/entries/freyja.html">Freyja</a> watches over this website.🐱<br>
