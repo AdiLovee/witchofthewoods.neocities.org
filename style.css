@@ -1,0 +1,360 @@
+:root {
+  --lilac:          #c8a2c8;
+  --dark-lilac:     #6d526d;
+  --violet:         #302044;
+  --link:           #00ffcc;
+  --link-visited:   #0099aa;
+  --link-hover:     #006666;
+  --link-active:    #004444;
+  --dark-grey:      #414141;
+  --light-grey:     #7e7e7e;
+
+  --fg:         var(--lilac);
+  --bg:         var(--violet);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.home-boxes {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.home-box {
+  min-width: 0;
+  min-height: 300px;
+  padding: 1rem;
+  border: 1px solid var(--dark-lilac);
+  border-radius: 8px;
+}
+
+.home-box h2 {
+  margin-top: 0;
+}
+.home-box ul {
+  list-style: none;
+}
+
+@media (max-width: 600px) {
+  .home-boxes {
+    grid-template-columns: 1fr;
+  }
+}
+
+.site-nav {
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.site-nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.site-nav li {
+  margin: 0;
+  padding: 0;
+}
+
+.site-nav a {
+  display: inline-block;
+  padding: 0.5rem 0.75rem;
+  white-space: nowrap;
+}
+
+magical-ring {
+  max-width: 50ch;
+  border:black 4px double;
+  display:grid;
+  grid-template-columns: 1fr 4fr 1fr;
+  padding-top: 0.2em;
+  background-color:antiquewhite;
+}
+
+magical-ring > * {
+  box-sizing: border-box;
+}
+
+magical-ring div{
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+}
+
+magical-ring a,magical-ring a:visited {
+color:black;
+text-decoration: none;
+}
+
+magical-ring .arrow {
+  text-decoration:underline;
+}
+
+magical-ring h3, magical-ring .ring-name {
+  font-family: 'IM Fell English SC', serif;
+  
+}
+magical-ring p, magical-ring a {
+  font-family: 'Benne', serif;
+  font-size:0.9em;
+}
+magical-ring .picture {
+  background-image: url(https://magical-ring.neocities.org/images/crow.png);
+  width: 109px;
+  height: 61px;
+}
+magical-ring .picture-noring {
+  background-image: url(https://magical-ring.neocities.org/images/snakey.png);
+  width: 50px;
+  aspect-ratio: 1/1;
+}
+magical-ring p,magical-ring h3 {
+  margin: 0;
+  margin-bottom:0.1em;
+}
+
+body {
+  background-color: var(--bg);
+  background-image: url("/assets/wallpaper.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  color: var(--fg);
+  font-family: 'Consolas', monospace;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+  width: calc(100% - 2rem);
+  max-width: 900px;
+  margin: 1.5rem auto;
+  padding: 1.5rem;
+
+  background-color: var(--bg);
+  border: 1px solid var(--dark-lilac);
+  border-radius: 8px;
+}
+header {
+  flex: 1;
+  width: calc(100% - 2rem);
+  max-width: 900px;
+  margin: 1.5rem auto;
+  padding: 1.5rem;
+
+  background-color: var(--bg);
+  border: 1px solid var(--dark-lilac);
+  border-radius: 8px;
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:visited {
+  color: var(--link-visited);
+}
+
+a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+a:active {
+  color: var(--link-active);
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.hover-button {
+  background-color: var(--dark-grey);
+  color: var(--off-white);
+  border-radius: 18px;
+  border: 1px solid var(--light-grey);
+  transition: background-color 0.2s ease;
+  padding: 4px 10px;
+  font-size: 0.875rem;
+  margin-top: 0.5rem;
+  cursor: pointer;
+}
+
+.hover-button:hover {
+  background-color: var(--light-grey);
+}
+
+.dark-mode {
+  background-color: var(--dark-bg-color);
+  color: var(--off-white);
+}
+
+.update-item {
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--dark-grey);
+  margin-bottom: 1em;
+  border: 1px solid var(--light-grey);
+}
+
+.update-header {
+  font-weight: bold;
+  cursor: pointer;
+  padding: 8px 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--dark-grey);
+  color: var(--off-white);
+  border-radius: 12px 12px 0 0;
+}
+
+.update-header:hover {
+  background: var(--light-grey);
+}
+
+.update-content {
+  display: none;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out, padding 0.2s ease-out;
+  background: var(--dark-grey);
+  color: var(--off-white);
+  border-top: 1px solid var(--light-grey);
+  border-radius: 0 0 12px 12px;
+  padding: 0 12px;
+}
+
+.update-content.show {
+  display: block;
+  max-height: 400px;
+  overflow-y: auto;
+  padding: 12px;
+}
+
+.toggle-icon {
+  float: right;
+}
+
+#tableContainer {
+  overflow-x: auto;
+}
+
+#tablePaginated {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+#tablePaginated th,
+#tablePaginated td {
+  padding: 0.5rem;
+  text-align: center;
+  font-size: 1rem;
+}
+
+#tablePaginatedCreator {
+  width: 100%;
+  table-layout: auto;
+  margin-top: 1rem;
+}
+
+#tablePaginatedCreator th:nth-child(1),
+#tablePaginatedCreator td:nth-child(1) {
+  width: auto;
+  text-align: left;
+}
+
+#tablePaginatedCreator th:nth-child(2),
+#tablePaginatedCreator td:nth-child(2),
+#tablePaginatedCreator th:nth-child(3),
+#tablePaginatedCreator td:nth-child(3) {
+  white-space: nowrap;
+  width: 1%;
+}
+
+#tablePaginatedCreator th:nth-child(2),
+#tablePaginatedCreator td:nth-child(2) {
+  text-align: right;
+}
+
+#tablePaginatedCreator th:nth-child(3),
+#tablePaginatedCreator td:nth-child(3) {
+  text-align: left;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+h2, h3 {
+  margin-top: 2rem;
+}
+
+ul, ol {
+  margin-left: 1.5rem;
+  padding-left: 1.5rem;
+  list-style-type: disc;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap; /* Allows wrapping on smaller screens */
+  padding: 1rem;
+  gap: 1rem;
+}
+
+.header-center{
+  flex: 1 1 100%; /* Full width on small screens by default */
+  text-align: center;
+}
+
+
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;
+  }
+
+  main {
+    padding: 1rem 0.5rem;
+  }
+
+  #tablePaginated th,
+  #tablePaginated td,
+  #tablePaginatedCreator th,
+  #tablePaginatedCreator td {
+    font-size: 14px;
+  }
+
+  .hover-button {
+    width: 25%;
+    font-size: 0.875rem;
+  }
+
+  img {
+    max-width: 40px;
+    height: 40px;
+  }
+  
+  ul, ol {
+    margin-left: 1rem;
+    padding-left: 1rem;
+  }
+}

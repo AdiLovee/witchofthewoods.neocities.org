@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Witch of the Woods - Grimoire</title>
+    <link rel="icon" href="/assets/favicon.png" />
+    <!-- Run before anything else -->
+    <script>
+      const script = document.createElement("script");
+      script.src = "/scripts/versionCheck.js?v=" + Date.now();
+      document.head.appendChild(script);
+    </script>
+    
+    <!-- Template scripts -->
+    <link rel="stylesheet" href="/style.css" />
+    <script src="/scripts/themeInit.js"></script>
+    <script src="/scripts/header.js" defer></script>
+    <script src="/scripts/footer.js" defer></script>
+    <script src="/scripts/darkMode.js" defer></script>
+    <script src="/scripts/trail.js" defer></script>
+    
+    <!-- Scripts needed for page contents go here -->
+    <script type="module" src="/scripts/shared.js" defer></script>
+    <script type="module" src="/scripts/paginationGrimoire.js" defer></script>
+  </head>
+  <body>
+    <div id="header"></div>
+    <main>
+      <p>
+        ← Back to <a href="/index.html">Main Page</a>.
+      </p>
+      <br>
+      <hr>
+      <br>
+      <p>Alphabetical list of entries.</p>
+      
+      <p>Currently Viewing: <span id="filteredCount">...</span> out of <span id="entryCount">...</span> Entries</p>
+      <br>
+      <div id="filters">
+        <label for="filterCategory">Category:</label>
+        <select id="filterCategory">
+          <option value="all">All</option>
+        </select>
+      </div>
+      <div id="sortButtons">
+        
+        <button id="resetFilters" class="hover-button">Reset Filters</button>
+        <button id="sortName" class="hover-button">Sort by Name</button>
+        <button id="sortCategory" class="hover-button">Sort by Category</button>
+      </div>
+      <div id="tableContainer">
+        <div id="paginationUpper"></div>
+        
+        <br>
+        <hr>
+        <br>
+        
+        <table border="1" id="tablePaginated">
+          <tr>
+            <th></th>
+            <th>Name</th>
+            <th>Category</th>
+          </tr>
+        </table>
+        
+        <div id="paginationLower"></div>
+      </div>
+      <p>← Back to <a href="/index.html">Main Page</a>.</p>
+      <br>
+      <div id="footer"></div>
+    </main>
+  </body>
+</html>

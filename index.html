@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Witch of the Woods</title>
+    <link rel="icon" href="/assets/favicon.png" />
+    <!-- Run before anything else -->
+    <script>
+      const script = document.createElement("script");
+      script.src = "/scripts/versionCheck.js?v=" + Date.now();
+      document.head.appendChild(script);
+    </script>
+    
+    <!-- Template scripts -->
+    <link rel="stylesheet" href="/style.css" />
+    <script src="/scripts/themeInit.js"></script>
+    <script src="/scripts/header.js" defer></script>
+    <script src="/scripts/footer.js" defer></script>
+    <script src="/scripts/darkMode.js" defer></script>
+    <script src="/scripts/trail.js" defer></script>
+    
+    <!-- Scripts needed for page contents go here -->
+  </head>
+  <body>
+      <div id="header"></div>
+    <main>
+        <div class="home-boxes">
+          <section class="home-box">
+            <center><h2>Grimoire</h2></center>
+            <ul>
+              <li><a href="/grimoire.html?category=crystals">Crystals</a></li>
+              <li><a href="/grimoire.html?category=herbs">Herbs</a></li>
+              <li><a href="/grimoire.html?category=deities">Deities</a></li>
+              <li><a href="/grimoire.html?category=rituals">Rituals and Esbats</a></li>
+              <li><a href="/grimoire.html?category=spell+bags">Spell Bags</a></li>
+              <li><a href="/grimoire.html?category=teas">Teas</a></li>
+              <li><a href="/grimoire.html?category=decoctions">Decoctions</a></li>
+              <li><a href="/grimoire.html?category=infusions">Infusions</a></li>
+              <li><a href="/grimoire.html?category=tinctures">Tinctures</a></li>
+              <li><a href="/grimoire.html?category=electuaries">Electuaries</a></li>
+              <li><a href="/grimoire.html?category=essential+oils">Essential Oils</a></li>
+              <li><a href="/grimoire.html?category=salves">Salves</a></li>
+              <li><a href="/grimoire.html?category=incenses">Incenses</a></li>
+              <li><a href="/grimoire.html">All Entries</a></li>
+            </ul>
+          </section>
+          <section class="home-box">
+            <!-- Empty -->
+          </section>
+        </div>
+      <div id="footer"></div>
+    </main>
+  </body>
+</html>

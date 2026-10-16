@@ -1,0 +1,1189 @@
+{
+  "entries": [
+    {
+      "title": "⛥ Decoctions ⛥",
+      "link": "decoctions",
+      "category": ["decoctions"]
+    },{
+      "title": "⛥ Infusions ⛥",
+      "link": "infusions",
+      "category": ["infusions"]
+    },{
+      "title": "⛥ Rituals and Esbats ⛥",
+      "link": "rituals",
+      "category": ["rituals"]
+    },{
+      "title": "⛥ Salves ⛥",
+      "link": "salves",
+      "category": ["salves"]
+    },{
+      "title": "⛥ Spell Bags ⛥",
+      "link": "spellbags",
+      "category": ["spell bags"]
+    },{
+      "title": "⛥ Electuaries ⛥",
+      "link": "electuaries",
+      "category": ["electuaries"]
+    },{
+      "title": "⛥ Essential Oils ⛥",
+      "link": "essentialoils",
+      "category": ["essential oils"]
+    },{
+      "title": "⛥ Tinctures ⛥",
+      "link": "tinctures",
+      "category": ["tinctures"]
+    },{
+      "title": "⛥ Herbs ⛥",
+      "link": "herbs",
+      "category": ["herbs"]
+    },{
+      "title": "⛥ Tea Magick ⛥",
+      "link": "teas",
+      "category": ["teas"]
+    },{
+      "title": "⛥ Crystals ⛥",
+      "link": "crystals",
+      "category": ["crystals"]
+    },{
+      "title": "Happiness Tea",
+      "link": "tea_happiness",
+      "category": ["teas"]
+    },{
+      "title": "Peace Tea",
+      "link": "tea_peace",
+      "category": ["teas"]
+    },{
+      "title": "Love Tea",
+      "link": "tea_love",
+      "category": ["teas"]
+    },{
+      "title": "Luck Tea",
+      "link": "tea_luck",
+      "category": ["teas"]
+    },{
+      "title": "Purification Tea",
+      "link": "tea_purification",
+      "category": ["teas"]
+    },{
+      "title": "Health Tea",
+      "link": "tea_health",
+      "category": ["teas"]
+    },{
+      "title": "Divination Tea",
+      "link": "tea_divination",
+      "category": ["teas"]
+    },{
+      "title": "Longevity Tea",
+      "link": "tea_longevity",
+      "category": ["teas"]
+    },{
+      "title": "Binding Tea",
+      "link": "tea_binding",
+      "category": ["teas"]
+    },{
+      "title": "Prophetic Dream Tea",
+      "link": "tea_propheticdream",
+      "category": ["teas"]
+    },{
+      "title": "Psychic Protection Tea",
+      "link": "tea_psychic_prot",
+      "category": ["teas"]
+    },{
+      "title": "Tarot Tea",
+      "link": "tea_tarot",
+      "category": ["teas"]
+    },{
+      "title": "Negativity Ward Tea",
+      "link": "tea_negward",
+      "category": ["teas"]
+    },{
+      "title": "Prosperity Tea",
+      "link": "tea_prosperity",
+      "category": ["teas"]
+    },{
+      "title": "Astral Travel Tea",
+      "link": "tea_astraltravel",
+      "category": ["teas"]
+    },{
+      "title": "Aura Repair Tea",
+      "link": "tea_aura",
+      "category": ["teas"]
+    },{
+      "title": "Break Love Spell Tea",
+      "link": "tea_heartbreak",
+      "category": ["teas"]
+    },{
+      "title": "Truth Tea",
+      "link": "tea_truth",
+      "category": ["teas"]
+    },{
+      "title": "Beauty Tea",
+      "link": "tea_beauty",
+      "category": ["teas"]
+    },{
+      "title": "Courage Tea",
+      "link": "tea_courage",
+      "category": ["teas"]
+    },{
+      "title": "Friendship Tea",
+      "link": "tea_friendship",
+      "category": ["teas"]
+    },{
+      "title": "Mental Clarity Tea",
+      "link": "tea_clarity",
+      "category": ["teas"]
+    },{
+      "title": "Healing Tea",
+      "link": "tea_healing",
+      "category": ["teas"]
+    },{
+      "title": "Psychic Empowerment Tea",
+      "link": "tea_psychicpower",
+      "category": ["teas"]
+    },{
+      "title": "Hex-Breaker Tea",
+      "link": "tea_hex",
+      "category": ["teas"]
+    },{
+      "title": "Silver-Tongue Tea",
+      "link": "tea_silver",
+      "category": ["teas"]
+    },{
+      "title": "Broken Heart Tea",
+      "link": "tea_brokenheart",
+      "category": ["teas"]
+    },{
+      "title": "Lunar Tea (New Moon)",
+      "link": "tea_lunar_new",
+      "category": ["teas"]
+    },{
+      "title": "Lunar Tea (Waxing Moon)",
+      "link": "tea_lunar_waxing",
+      "category": ["teas"]
+    },{
+      "title": "Lunar Tea (Full Moon)",
+      "link": "tea_lunar_full",
+      "category": ["teas"]
+    },{
+      "title": "Lunar Tea (Waning Moon)",
+      "link": "tea_lunar_waning",
+      "category": ["teas"]
+    },{
+      "title": "Lunar Tea (Blue Moon)",
+      "link": "tea_lunar_blue",
+      "category": ["teas"]
+    },{
+      "title": "Lunar Tea (Eclipse)",
+      "link": "tea_lunar_eclipse",
+      "category": ["teas"]
+    },{
+      "title": "Lunar Tea (Shooting Stars)",
+      "link": "tea_lunar_stars",
+      "category": ["teas"]
+    },{
+      "title": "Moon Esbat (1 - January)",
+      "link": "esbat_moon_1",
+      "category": ["rituals"]
+    },{
+      "title": "Moon Esbat (2 - February)",
+      "link": "esbat_moon_2",
+      "category": ["rituals"]
+    },{
+      "title": "Moon Esbat (3 - March)",
+      "link": "esbat_moon_3",
+      "category": ["rituals"]
+    },{
+      "title": "Moon Esbat (4 - April)",
+      "link": "esbat_moon_4",
+      "category": ["rituals"]
+    },{
+      "title": "Moon Esbat (5 - May)",
+      "link": "esbat_moon_5",
+      "category": ["rituals"]
+    },{
+      "title": "Moon Esbat (6 - June)",
+      "link": "esbat_moon_6",
+      "category": ["rituals"]
+    },{
+      "title": "Moon Esbat (7 - July)",
+      "link": "esbat_moon_7",
+      "category": ["rituals"]
+    },{
+      "title": "Moon Esbat (8 - August)",
+      "link": "esbat_moon_8",
+      "category": ["rituals"]
+    },{
+      "title": "Moon Esbat (9 - September)",
+      "link": "esbat_moon_9",
+      "category": ["rituals"]
+    },{
+      "title": "Moon Esbat (10 - October)",
+      "link": "esbat_moon_10",
+      "category": ["rituals"]
+    },{
+      "title": "Moon Esbat (11 - November)",
+      "link": "esbat_moon_11",
+      "category": ["rituals"]
+    },{
+      "title": "Moon Esbat (12 - December)",
+      "link": "esbat_moon_12",
+      "category": ["rituals"]
+    },{
+      "title": "Zodiac Tea (1 - Aries)",
+      "link": "tea_zodiac_1",
+      "category": ["teas"]
+    },{
+      "title": "Zodiac Tea (2 - Taurus)",
+      "link": "tea_zodiac_2",
+      "category": ["teas"]
+    },{
+      "title": "Zodiac Tea (3 - Gemini)",
+      "link": "tea_zodiac_3",
+      "category": ["teas"]
+    },{
+      "title": "Zodiac Tea (4 - Cancer)",
+      "link": "tea_zodiac_4",
+      "category": ["teas"]
+    },{
+      "title": "Zodiac Tea (5 - Leo)",
+      "link": "tea_zodiac_5",
+      "category": ["teas"]
+    },{
+      "title": "Zodiac Tea (6 - Virgo)",
+      "link": "tea_zodiac_6",
+      "category": ["teas"]
+    },{
+      "title": "Zodiac Tea (7 - Libra)",
+      "link": "tea_zodiac_7",
+      "category": ["teas"]
+    },{
+      "title": "Zodiac Tea (8 - Scorpio)",
+      "link": "tea_zodiac_8",
+      "category": ["teas"]
+    },{
+      "title": "Zodiac Tea (9 - Sagittarius)",
+      "link": "tea_zodiac_9",
+      "category": ["teas"]
+    },{
+      "title": "Zodiac Tea (10 - Capricorn)",
+      "link": "tea_zodiac_10",
+      "category": ["teas"]
+    },{
+      "title": "Zodiac Tea (11 - Aquarius)",
+      "link": "tea_zodiac_11",
+      "category": ["teas"]
+    },{
+      "title": "Zodiac Tea (12 - Pisces)",
+      "link": "tea_zodiac_12",
+      "category": ["teas"]
+    },{
+      "title": "Sabbat Tea (1 - Yule)",
+      "link": "tea_sabbat_1",
+      "category": ["teas"]
+    },{
+      "title": "Sabbat Tea (2 - Imbolc)",
+      "link": "tea_sabbat_2",
+      "category": ["teas"]
+    },{
+      "title": "Sabbat Tea (3 - Ostara)",
+      "link": "tea_sabbat_3",
+      "category": ["teas"]
+    },{
+      "title": "Sabbat Tea (4 - Beltane)",
+      "link": "tea_sabbat_4",
+      "category": ["teas"]
+    },{
+      "title": "Sabbat Tea (5 - Litha)",
+      "link": "tea_sabbat_5",
+      "category": ["teas"]
+    },{
+      "title": "Sabbat Tea (6 - Lughnasadh)",
+      "link": "tea_sabbat_6",
+      "category": ["teas"]
+    },{
+      "title": "Sabbat Tea (7 - Mabon)",
+      "link": "tea_sabbat_7",
+      "category": ["teas"]
+    },{
+      "title": "Sabbat Tea (8 - Samhain)",
+      "link": "tea_sabbat_8",
+      "category": ["teas"]
+    },{
+      "title": "Solar Potion",
+      "link": "potion_solar",
+      "category": ["infusions"]
+    },{
+      "title": "Lunar Potion",
+      "link": "potion_lunar",
+      "category": ["infusions"]
+    },{
+      "title": "Wisdom Potion",
+      "link": "potion_wisdom",
+      "category": ["infusions"]
+    },{
+      "title": "Love Potion",
+      "link": "potion_love",
+      "category": ["infusions"]
+    },{
+      "title": "Healing Potion",
+      "link": "potion_healing",
+      "category": ["infusions"]
+    },{
+      "title": "Money Potion",
+      "link": "potion_money",
+      "category": ["infusions"]
+    },{
+      "title": "Protection Potion",
+      "link": "potion_prot",
+      "category": ["infusions"]
+    },{
+      "title": "Wish Potion",
+      "link": "potion_wish",
+      "category": ["infusions"]
+    },{
+      "title": "Celebrate Life Potion",
+      "link": "potion_life",
+      "category": ["infusions"]
+    },{
+      "title": "Celebrate Death Potion",
+      "link": "potion_death",
+      "category": ["infusions"]
+    },{
+      "title": "Caraway",
+      "link": "caraway",
+      "category": ["herbs"]
+    },{
+      "title": "Dandelion",
+      "link": "dandelion",
+      "category": ["herbs"]
+    },{
+      "title": "Fennel",
+      "link": "fennel",
+      "category": ["herbs"]
+    },{
+      "title": "Hibiscus",
+      "link": "hibiscus",
+      "category": ["herbs"]
+    },{
+      "title": "Marjoram",
+      "link": "marjoram",
+      "category": ["herbs"]
+    },{
+      "title": "Mugwort",
+      "link": "mugwort",
+      "category": ["herbs"]
+    },{
+      "title": "Parsley",
+      "link": "parsley",
+      "category": ["herbs"]
+    },{
+      "title": "Catnip",
+      "link": "catnip",
+      "category": ["herbs"]
+    },{
+      "title": "Ginseng",
+      "link": "ginseng",
+      "category": ["herbs"]
+    },{
+      "title": "Coconut",
+      "link": "coconut",
+      "category": ["herbs"]
+    },{
+      "title": "Cucumber",
+      "link": "cucumber",
+      "category": ["herbs"]
+    },{
+      "title": "Hawthorn",
+      "link": "hawthorn",
+      "category": ["herbs"]
+    },{
+      "title": "Lavender",
+      "link": "lavender",
+      "category": ["herbs"]
+    },{
+      "title": "Pineapple",
+      "link": "pineapple",
+      "category": ["herbs"]
+    },{
+      "title": "Vervain",
+      "link": "vervain",
+      "category": ["herbs"]
+    },{
+      "title": "Basil",
+      "link": "basil",
+      "category": ["herbs"]
+    },{
+      "title": "Borage",
+      "link": "borage",
+      "category": ["herbs"]
+    },{
+      "title": "Cohosh",
+      "link": "cohosh",
+      "category": ["herbs"]
+    },{
+      "title": "Ginger",
+      "link": "ginger",
+      "category": ["herbs"]
+    },{
+      "title": "Mullein",
+      "link": "mullein",
+      "category": ["herbs"]
+    },{
+      "title": "Nettle",
+      "link": "nettle",
+      "category": ["herbs"]
+    },{
+      "title": "Pepper",
+      "link": "pepper",
+      "category": ["herbs"]
+    },{
+      "title": "Rooibos",
+      "link": "rooibos",
+      "category": ["herbs"]
+    },{
+      "title": "Tea, Black",
+      "link": "tea_black",
+      "category": ["herbs"]
+    },{
+      "title": "Thyme",
+      "link": "thyme",
+      "category": ["herbs"]
+    },{
+      "title": "Yarrow",
+      "link": "yarrow",
+      "category": ["herbs"]
+    },{
+      "title": "Cherry",
+      "link": "cherry",
+      "category": ["herbs"]
+    },{
+      "title": "Fig",
+      "link": "fig",
+      "category": ["herbs"]
+    },{
+      "title": "Goldenrod",
+      "link": "goldenrod",
+      "category": ["herbs"]
+    },{
+      "title": "Orange",
+      "link": "orange",
+      "category": ["herbs"]
+    },{
+      "title": "Pomegranate",
+      "link": "pomegranate",
+      "category": ["herbs"]
+    },{
+      "title": "Tea, Oolong",
+      "link": "tea_oolong",
+      "category": ["herbs"]
+    },{
+      "title": "Angelica",
+      "link": "angelica",
+      "category": ["herbs"]
+    },{
+      "title": "Bergamot",
+      "link": "bergamot",
+      "category": ["herbs"]
+    },{
+      "title": "Clove",
+      "link": "clove",
+      "category": ["herbs"]
+    },{
+      "title": "Clover",
+      "link": "clover",
+      "category": ["herbs"]
+    },{
+      "title": "Cumin",
+      "link": "cumin",
+      "category": ["herbs"]
+    },{
+      "title": "Garlic",
+      "link": "garlic",
+      "category": ["herbs"]
+    },{
+      "title": "Horehound",
+      "link": "horehound",
+      "category": ["herbs"]
+    },{
+      "title": "Juniper",
+      "link": "juniper",
+      "category": ["herbs"]
+    },{
+      "title": "Lemon",
+      "link": "lemon",
+      "category": ["herbs"]
+    },{
+      "title": "Lemongrass",
+      "link": "lemongrass",
+      "category": ["herbs"]
+    },{
+      "title": "Lilac",
+      "link": "lilac",
+      "category": ["herbs"]
+    },{
+      "title": "Mallow",
+      "link": "mallow",
+      "category": ["herbs"]
+    },{
+      "title": "Mint",
+      "link": "mint",
+      "category": ["herbs"]
+    },{
+      "title": "Onion",
+      "link": "onion",
+      "category": ["herbs"]
+    },{
+      "title": "Peach",
+      "link": "peach",
+      "category": ["herbs"]
+    },{
+      "title": "Pine Nut",
+      "link": "pine_nut",
+      "category": ["herbs"]
+    },{
+      "title": "Rosemary",
+      "link": "rosemary",
+      "category": ["herbs"]
+    },{
+      "title": "Thistle",
+      "link": "thistle",
+      "category": ["herbs"]
+    },{
+      "title": "Banana",
+      "link": "banana",
+      "category": ["herbs"]
+    },{
+      "title": "Carrot",
+      "link": "carrot",
+      "category": ["herbs"]
+    },{
+      "title": "Cinnamon",
+      "link": "cinnamon",
+      "category": ["herbs"]
+    },{
+      "title": "Coriander",
+      "link": "coriander",
+      "category": ["herbs"]
+    },{
+      "title": "Geranium",
+      "link": "geranium",
+      "category": ["herbs"]
+    },{
+      "title": "Grape",
+      "link": "grape",
+      "category": ["herbs"]
+    },{
+      "title": "Hazelnut",
+      "link": "hazelnut",
+      "category": ["herbs"]
+    },{
+      "title": "Mustard",
+      "link": "mustard",
+      "category": ["herbs"]
+    },{
+      "title": "Date",
+      "link": "date",
+      "category": ["herbs"]
+    },{
+      "title": "Rice",
+      "link": "rice",
+      "category": ["herbs"]
+    },{
+      "title": "Tea, White",
+      "link": "tea_white",
+      "category": ["herbs"]
+    },{
+      "title": "Chickwood",
+      "link": "chickwood",
+      "category": ["herbs"]
+    },{
+      "title": "Chili Pepper",
+      "link": "chili_pepper",
+      "category": ["herbs"]
+    },{
+      "title": "Licorice",
+      "link": "licorice",
+      "category": ["herbs"]
+    },{
+      "title": "Nutmeg",
+      "link": "nutmeg",
+      "category": ["herbs"]
+    },{
+      "title": "Yerba Mate",
+      "link": "yerba_mate",
+      "category": ["herbs"]
+    },{
+      "title": "Passionflower",
+      "link": "passionflower",
+      "category": ["herbs"]
+    },{
+      "title": "Feverfew",
+      "link": "feverfew",
+      "category": ["herbs"]
+    },{
+      "title": "Saffron",
+      "link": "saffron",
+      "category": ["herbs"]
+    },{
+      "title": "Aster",
+      "link": "aster",
+      "category": ["herbs"]
+    },{
+      "title": "Vanilla",
+      "link": "vanilla",
+      "category": ["herbs"]
+    },{
+      "title": "Allspice",
+      "link": "allspice",
+      "category": ["herbs"]
+    },{
+      "title": "Almond",
+      "link": "almond",
+      "category": ["herbs"]
+    },{
+      "title": "Apple",
+      "link": "apple",
+      "category": ["herbs"]
+    },{
+      "title": "Lemon Balm",
+      "link": "lemon_balm",
+      "category": ["herbs"]
+    },{
+      "title": "Barley",
+      "link": "barley",
+      "category": ["herbs"]
+    },{
+      "title": "Bay",
+      "link": "bay",
+      "category": ["herbs"]
+    },{
+      "title": "Blackberry",
+      "link": "blackberry",
+      "category": ["herbs"]
+    },{
+      "title": "Chamomile",
+      "link": "chamomile",
+      "category": ["herbs"]
+    },{
+      "title": "Citron",
+      "link": "citron",
+      "category": ["herbs"]
+    },{
+      "title": "Hemp",
+      "link": "hemp",
+      "category": ["herbs"]
+    },{
+      "title": "Hops",
+      "link": "hops",
+      "category": ["herbs"]
+    },{
+      "title": "Lime",
+      "link": "lime",
+      "category": ["herbs"]
+    },{
+      "title": "Peppermint",
+      "link": "peppermint",
+      "category": ["herbs"]
+    },{
+      "title": "Plum",
+      "link": "plum",
+      "category": ["herbs"]
+    },{
+      "title": "Potato",
+      "link": "potato",
+      "category": ["herbs"]
+    },{
+      "title": "Rose",
+      "link": "rose",
+      "category": ["herbs"]
+    },{
+      "title": "Sorrel",
+      "link": "sorrel",
+      "category": ["herbs"]
+    },{
+      "title": "Spearmint",
+      "link": "spearmint",
+      "category": ["herbs"]
+    },{
+      "title": "Tea, Green",
+      "link": "tea_green",
+      "category": ["herbs"]
+    },{
+      "title": "Violet",
+      "link": "violet",
+      "category": ["herbs"]
+    },{
+      "title": "Willow",
+      "link": "willow",
+      "category": ["herbs"]
+    },{
+      "title": "Galangal",
+      "link": "galangal",
+      "category": ["herbs"]
+    },{
+      "title": "Oats",
+      "link": "oats",
+      "category": ["herbs"]
+    },{
+      "title": "Walnut",
+      "link": "walnut",
+      "category": ["herbs"]
+    },{
+      "title": "Vetiver",
+      "link": "vetiver",
+      "category": ["herbs"]
+    },{
+      "title": "Chrysanthemum",
+      "link": "chrysanthemum",
+      "category": ["herbs"]
+    },{
+      "title": "Linden",
+      "link": "linden",
+      "category": ["herbs"]
+    },{
+      "title": "Sage",
+      "link": "sage",
+      "category": ["herbs"]
+    },{
+      "title": "Maple",
+      "link": "maple",
+      "category": ["herbs"]
+    },{
+      "title": "Apricot",
+      "link": "apricot",
+      "category": ["herbs"]
+    },{
+      "title": "Bachelor's Button",
+      "link": "bachelors_button",
+      "category": ["herbs"]
+    },{
+      "title": "Brazil Nut",
+      "link": "brazil_nut",
+      "category": ["herbs"]
+    },{
+      "title": "Chestnut",
+      "link": "chestnut",
+      "category": ["herbs"]
+    },{
+      "title": "Damiana",
+      "link": "damiana",
+      "category": ["herbs"]
+    },{
+      "title": "Dill",
+      "link": "dill",
+      "category": ["herbs"]
+    },{
+      "title": "Elecampane",
+      "link": "elecampane",
+      "category": ["herbs"]
+    },{
+      "title": "Jasmine",
+      "link": "jasmine",
+      "category": ["herbs"]
+    },{
+      "title": "Lemon Verbena",
+      "link": "lemon_verbena",
+      "category": ["herbs"]
+    },{
+      "title": "Lovage",
+      "link": "lovage",
+      "category": ["herbs"]
+    },{
+      "title": "Papaya",
+      "link": "papaya",
+      "category": ["herbs"]
+    },{
+      "title": "Pear",
+      "link": "pear",
+      "category": ["herbs"]
+    },{
+      "title": "Raspberry",
+      "link": "raspberry",
+      "category": ["herbs"]
+    },{
+      "title": "Skullcap",
+      "link": "skullcap",
+      "category": ["herbs"]
+    },{
+      "title": "Elder",
+      "link": "elder",
+      "category": ["herbs"]
+    },{
+      "title": "Strawberry",
+      "link": "strawberry",
+      "category": ["herbs"]
+    },{
+      "title": "Sugarcane",
+      "link": "sugarcane",
+      "category": ["herbs"]
+    },{
+      "title": "Tormentil",
+      "link": "tormentil",
+      "category": ["herbs"]
+    },{
+      "title": "Valerian",
+      "link": "valerian",
+      "category": ["herbs"]
+    },{
+      "title": "Wormwood",
+      "link": "wormwood",
+      "category": ["herbs"]
+    },{
+      "title": "Pistachio",
+      "link": "pistachio",
+      "category": ["herbs"]
+    },{
+      "title": "Star Anise",
+      "link": "star_anise",
+      "category": ["herbs"]
+    },{
+      "title": "Celery",
+      "link": "celery",
+      "category": ["herbs"]
+    },{
+      "title": "Lemon Leaf",
+      "link": "lemon_leaf",
+      "category": ["herbs"]
+    },{
+      "title": "Savory",
+      "link": "savory",
+      "category": ["herbs"]
+    },{
+      "title": "Cashew",
+      "link": "cashew",
+      "category": ["herbs"]
+    },{
+      "title": "Cinquefoil",
+      "link": "cinquefoil",
+      "category": ["herbs"]
+    },{
+      "title": "Fenugreek",
+      "link": "fenugreek",
+      "category": ["herbs"]
+    },{
+      "title": "Goldenrod",
+      "link": "goldenrod",
+      "category": ["herbs"]
+    },{
+      "title": "Pecan",
+      "link": "pecan",
+      "category": ["herbs"]
+    },{
+      "title": "Woodruff",
+      "link": "woodruff",
+      "category": ["herbs"]
+    },{
+      "title": "Blueberry",
+      "link": "blueberry",
+      "category": ["herbs"]
+    },{
+      "title": "Hyssop",
+      "link": "hyssop",
+      "category": ["herbs"]
+    },{
+      "title": "Acacia",
+      "link": "acacia",
+      "category": ["herbs"]
+    },{
+      "title": "Agrimony",
+      "link": "agrimony",
+      "category": ["herbs"]
+    },{
+      "title": "Tea, Pu-erh",
+      "link": "tea_pu-erh",
+      "category": ["herbs"]
+    },{
+      "title": "Anise",
+      "link": "anise",
+      "category": ["herbs"]
+    },{
+      "title": "Ash",
+      "link": "ash",
+      "category": ["herbs"]
+    },{
+      "title": "Bayberry",
+      "link": "bayberry",
+      "category": ["herbs"]
+    },{
+      "title": "Benzoin",
+      "link": "benzoin",
+      "category": ["herbs"]
+    },{
+      "title": "Birch",
+      "link": "birch",
+      "category": ["herbs"]
+    },{
+      "title": "Cedar",
+      "link": "cedar",
+      "category": ["herbs"]
+    },{
+      "title": "Cypress",
+      "link": "cypress",
+      "category": ["herbs"]
+    },{
+      "title": "Daisy",
+      "link": "daisy",
+      "category": ["herbs"]
+    },{
+      "title": "Echinacea",
+      "link": "echinacea",
+      "category": ["herbs"]
+    },{
+      "title": "Elm",
+      "link": "elm",
+      "category": ["herbs"]
+    },{
+      "title": "Eucalyptus",
+      "link": "eucalyptus",
+      "category": ["herbs"]
+    },{
+      "title": "Eyebright",
+      "link": "eyebright",
+      "category": ["herbs"]
+    },{
+      "title": "Flax",
+      "link": "flax",
+      "category": ["herbs"]
+    },{
+      "title": "Heather",
+      "link": "heather",
+      "category": ["herbs"]
+    },{
+      "title": "Heliotrope",
+      "link": "heliotrope",
+      "category": ["herbs"]
+    },{
+      "title": "Hyacinth",
+      "link": "hyacinth",
+      "category": ["herbs"]
+    },{
+      "title": "Lily",
+      "link": "lily",
+      "category": ["herbs"]
+    },{
+      "title": "Lotus",
+      "link": "lotus",
+      "category": ["herbs"]
+    },{
+      "title": "Meadowsweet",
+      "link": "meadowsweet",
+      "category": ["herbs"]
+    },{
+      "title": "Oregano",
+      "link": "oregano",
+      "category": ["herbs"]
+    },{
+      "title": "Patchouli",
+      "link": "patchouli",
+      "category": ["herbs"]
+    },{
+      "title": "Pine",
+      "link": "pine",
+      "category": ["herbs"]
+    },{
+      "title": "Poppy",
+      "link": "poppy",
+      "category": ["herbs"]
+    },{
+      "title": "Rowan",
+      "link": "rowan",
+      "category": ["herbs"]
+    },{
+      "title": "Rue",
+      "link": "rue",
+      "category": ["herbs"]
+    },{
+      "title": "St. John's Wort",
+      "link": "st_johns_wort",
+      "category": ["herbs"]
+    },{
+      "title": "Tarragon",
+      "link": "tarragon",
+      "category": ["herbs"]
+    },{
+      "title": "Chicory",
+      "link": "chicory",
+      "category": ["herbs"]
+    },{
+      "title": "Tangerine",
+      "link": "tangerine",
+      "category": ["herbs"]
+    },{
+      "title": "Tiger's Eye",
+      "link": "tigers_eye",
+      "category": ["crystals"]
+    },{
+      "title": "Quartz, Rose",
+      "link": "quartz_rose",
+      "category": ["crystals"]
+    },{
+      "title": "Quartz, Smoky",
+      "link": "quartz_smoky",
+      "category": ["crystals"]
+    },{
+      "title": "Quartz, Clear",
+      "link": "quartz_clear",
+      "category": ["crystals"]
+    },{
+      "title": "Quartz, Catseye",
+      "link": "quartz_catseye",
+      "category": ["crystals"]
+    },{
+      "title": "Jasper, Red",
+      "link": "jasper_red",
+      "category": ["crystals"]
+    },{
+      "title": "Jasper, Ocean",
+      "link": "jasper_ocean",
+      "category": ["crystals"]
+    },{
+      "title": "Moonstone",
+      "link": "moonstone",
+      "category": ["crystals"]
+    },{
+      "title": "Sunstone",
+      "link": "sunstone",
+      "category": ["crystals"]
+    },{
+      "title": "Carnelian",
+      "link": "carnelian",
+      "category": ["crystals"]
+    },{
+      "title": "Citrine",
+      "link": "citrine",
+      "category": ["crystals"]
+    },{
+      "title": "Obsidian, Black",
+      "link": "obsidian_black",
+      "category": ["crystals"]
+    },{
+      "title": "Aventurine",
+      "link": "aventurine",
+      "category": ["crystals"]
+    },{
+      "title": "Obsidian, Snowflake",
+      "link": "obsidian_snowflake",
+      "category": ["crystals"]
+    },{
+      "title": "Agate",
+      "link": "agate",
+      "category": ["crystals"]
+    },{
+      "title": "Tourmaline, Black",
+      "link": "tourmaline_black",
+      "category": ["crystals"]
+    },{
+      "title": "Selenite",
+      "link": "selenite",
+      "category": ["crystals"]
+    },{
+      "title": "Copper",
+      "link": "copper",
+      "category": ["crystals"]
+    },{
+      "title": "Emerald",
+      "link": "emerald",
+      "category": ["crystals"]
+    },{
+      "title": "Chalcedony",
+      "link": "chalecedony",
+      "category": ["crystals"]
+    },{
+      "title": "Hematite",
+      "link": "hematite",
+      "category": ["crystals"]
+    },{
+      "title": "Labradorite",
+      "link": "labradorite",
+      "category": ["crystals"]
+    },{
+      "title": "Lapis Lazuli",
+      "link": "lapis_lazuli",
+      "category": ["crystals"]
+    },{
+      "title": "Lepidolite",
+      "link": "lepidolite",
+      "category": ["crystals"]
+    },{
+      "title": "Pyrite",
+      "link": "pyrite",
+      "category": ["crystals"]
+    },{
+      "title": "Moonstone, Rainbow",
+      "link": "moonstone_rainbow",
+      "category": ["crystals"]
+    },{
+      "title": "Ruby",
+      "link": "ruby",
+      "category": ["crystals"]
+    },{
+      "title": "Shungite",
+      "link": "shungite",
+      "category": ["crystals"]
+    },{
+      "title": "White Opal",
+      "link": "opal_white",
+      "category": ["crystals"]
+    },{
+      "title": "Apatite",
+      "link": "apatite",
+      "category": ["crystals"]
+    },{
+      "title": "Onyx",
+      "link": "onyx",
+      "category": ["crystals"]
+    },{
+      "title": "Sapphire",
+      "link": "sapphire",
+      "category": ["crystals"]
+    },{
+      "title": "Topaz",
+      "link": "topaz",
+      "category": ["crystals"]
+    },{
+      "title": "Amethyst",
+      "link": "amethyst",
+      "category": ["crystals"]
+    },{
+      "title": "Room Purification Incense",
+      "link": "tarragon",
+      "category": ["incense"]
+    },{
+      "title": "Ostara Egg ritual",
+      "link": "tarragon",
+      "category": ["rituals"]
+    },{
+      "title": "Hecate",
+      "link": "hecate",
+      "category": ["deities", "deities-hellenic"]
+    },{
+      "title": "Lilith",
+      "link": "lilith",
+      "category": ["deities"]
+    },{
+      "title": "The Morrigan",
+      "link": "the_morrigan",
+      "category": ["deities", "deities-celtic"]
+    },{
+      "title": "Freyja",
+      "link": "freyja",
+      "category": ["deities", "deities-nordic"]
+    },{
+      "title": "Brigid",
+      "link": "brigid",
+      "category": ["deities", "deities-celtic"]
+    },{
+      "title": "Demeter",
+      "link": "demeter",
+      "category": ["deities", "deities-hellenic"]
+    },{
+      "title": "Athena",
+      "link": "athena",
+      "category": ["deities", "deities-hellenic"]
+    },{
+      "title": "Selene",
+      "link": "selene",
+      "category": ["deities", "deities-hellenic"]
+    }
+  ]
+}
