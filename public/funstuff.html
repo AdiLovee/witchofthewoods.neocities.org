@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Witch of the Woods - Not Found</title>
+    <link rel="icon" href="/assets/favicon.png" />
+    <!-- Run before anything else -->
+    <script>
+      const script = document.createElement("script");
+      script.src = "/scripts/versionCheck.js?v=" + Date.now();
+      document.head.appendChild(script);
+    </script>
+    
+    <!-- Template scripts -->
+    <link rel="stylesheet" href="/style.css" />
+    <script src="/scripts/header.js" defer></script>
+    <script src="/scripts/footer.js" defer></script>
+    <script src="/scripts/trail.js" defer></script>
+    <script src="https://u.widget.st/ar.js" defer></script>
+    
+    <!-- Scripts needed for page contents go here -->
+  </head>
+  <body>
+    <div id="header"></div>
+    <main>
+      <div class="content-box">
+        <div class="home-boxes">
+          <section class="home-box">
+            <iframe src="https://wrender.neocities.org/widget/tarotcard" height="375px" style="border: none;"></iframe>
+          </section>
+          <section class="home-box">
+              <iframe src="//widget.websudoku.com/?level=1" scrolling="no" frameborder="0" style="margin: 2% auto; background: none; overflow: hidden; width: 240px; height: 260px; margin-right: 1%;" class="center"></iframe>
+          </section>
+        </div>
+        <div class="home-boxes">
+          <section class="home-box">
+            <div class="crossword">
+              <script type="text/javascript">
+              boatload_puzzles_format = 'Portrait';</script>
+              <p style="display: none;">Loading <a href="https://www.boatloadpuzzles.com/playcrossword">crossword puzzle</a>. One moment please.</p>
+              <script type="text/javascript" src="//www.boatloadpuzzles.com/Crossword.js"></script>
+            </div>
+          </section>
+        </div>
+      </div>
+      <div id="footer"></div>
+    </main>
+  </body>
+</html>

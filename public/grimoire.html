@@ -26,41 +26,43 @@
   <body>
     <div id="header"></div>
     <main>
-      <br>
-      <p>Alphabetical list of entries.</p>
-      <p>Currently Viewing: <span id="filteredCount">...</span> out of <span id="entryCount">...</span> Entries</p>
-      <br>
-      <div id="filters">
-        <label for="filterCategory">Category:</label>
-        <select id="filterCategory">
-          <option value="all">All</option>
-        </select>
-      </div>
-      <div id="sortButtons">
-        
-        <button id="resetFilters" class="hover-button">Reset Filters</button>
-        <button id="sortName" class="hover-button">Sort by Name</button>
-        <button id="sortCategory" class="hover-button">Sort by Category</button>
-      </div>
-      <div id="tableContainer">
-        <div id="paginationUpper"></div>
-        
+      <div class="content-box">
         <br>
-        <hr>
+        <p>Alphabetical list of entries.</p>
+        <p>Currently Viewing: <span id="filteredCount">...</span> out of <span id="entryCount">...</span> Entries</p>
         <br>
-        
-        <table border="1" id="tablePaginated">
-          <tr>
-            <th></th>
-            <th>Name</th>
-            <th>Category</th>
-          </tr>
-        </table>
-        
-        <div id="paginationLower"></div>
+        <div id="filters">
+          <label for="filterCategory">Category:</label>
+          <select id="filterCategory">
+            <option value="all">All</option>
+          </select>
+        </div>
+        <div id="sortButtons">
+          
+          <button id="resetFilters" class="hover-button">Reset Filters</button>
+          <button id="sortName" class="hover-button">Sort by Name</button>
+          <button id="sortCategory" class="hover-button">Sort by Category</button>
+        </div>
+        <div id="tableContainer">
+          <div id="paginationUpper"></div>
+          
+          <br>
+          <hr>
+          <br>
+          
+          <table border="1" id="tablePaginated">
+            <tr>
+              <th></th>
+              <th>Name</th>
+              <th>Category</th>
+            </tr>
+          </table>
+          
+          <div id="paginationLower"></div>
+        </div>
+        <p>← Back to <a href="/index.html">Main Page</a>.</p>
+        <br>
       </div>
-      <p>← Back to <a href="/index.html">Main Page</a>.</p>
-      <br>
       <div id="footer"></div>
     </main>
   </body>

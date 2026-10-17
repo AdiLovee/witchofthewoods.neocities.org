@@ -82,6 +82,38 @@
   list-style: none;
 }
 
+.header-badges {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+}
+
+.header-badges img {
+  display: inline-block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+
+/* Webrings: height is determined by the contents */
+.home-box.webrings-box {
+  min-height: 0;
+  height: auto;
+  align-items: stretch;
+}
+
+/* Updates: fill the row height and allow scrolling inside */
+.home-box.updates-box {
+  min-height: 0;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  align-items: stretch;
+}
+
 @media (max-width: 600px) {
   .home-boxes {
     grid-template-columns: 1fr;
@@ -180,18 +212,7 @@ body {
   min-height: 100vh;
 }
 
-main {
-  flex: 1;
-  width: calc(100% - 2rem);
-  max-width: 900px;
-  margin: 1.5rem auto;
-  padding: 1.5rem;
-
-  background-color: var(--bg);
-  border: 1px solid var(--dark-lilac);
-  border-radius: 8px;
-}
-header {
+.content-box {
   flex: 1;
   width: calc(100% - 2rem);
   max-width: 900px;
