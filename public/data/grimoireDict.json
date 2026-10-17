@@ -309,6 +309,10 @@
       "link": "rituals/esbat_moon_12",
       "category": ["rituals"]
     },{
+      "title": "Ostara Egg ritual",
+      "link": "rituals/ostara_egg",
+      "category": ["rituals"]
+    },{
       "title": "Solar Potion",
       "link": "infusions/potion_solar",
       "category": ["infusions"]
@@ -1142,43 +1146,39 @@
       "category": ["crystals"]
     },{
       "title": "Room Purification Incense",
-      "link": "tarragon",
+      "link": "incense/room_purification",
       "category": ["incense"]
     },{
-      "title": "Ostara Egg ritual",
-      "link": "tarragon",
-      "category": ["rituals"]
-    },{
       "title": "Hecate",
-      "link": "hecate",
+      "link": "deities/hecate",
       "category": ["deities", "deities-hellenic"]
     },{
       "title": "Lilith",
-      "link": "lilith",
+      "link": "deities/lilith",
       "category": ["deities"]
     },{
       "title": "The Morrígan",
-      "link": "the_morrigan",
+      "link": "deities/the_morrigan",
       "category": ["deities", "deities-celtic"]
     },{
       "title": "Freyja",
-      "link": "freyja",
+      "link": "deities/freyja",
       "category": ["deities", "deities-nordic"]
     },{
       "title": "Brigid",
-      "link": "brigid",
+      "link": "deities/brigid",
       "category": ["deities", "deities-celtic"]
     },{
       "title": "Demeter",
-      "link": "demeter",
+      "link": "deities/demeter",
       "category": ["deities", "deities-hellenic"]
     },{
       "title": "Athena",
-      "link": "athena",
+      "link": "deities/athena",
       "category": ["deities", "deities-hellenic"]
     },{
       "title": "Selene",
-      "link": "selene",
+      "link": "deities/selene",
       "category": ["deities", "deities-hellenic"]
     }
   ]
