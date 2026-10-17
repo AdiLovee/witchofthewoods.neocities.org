@@ -110,6 +110,8 @@ FOOT.innerHTML = `
         </span>
       </pre>
       <a href="/construction.html"><img class="badge" src="/assets/construction2.png" width="465" height="28" alt="Under Construction"></a>
+      <br>
+      <small>(if something seems broken try ctrl+shift+r)</small>
     </center>
     <p>
       <a target="_blank" href="https://icons8.com/icon/bPaE2LXiRLQy/triquetra">Triquetra</a> favicon by 
