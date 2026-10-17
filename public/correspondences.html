@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Witch of the Woods - Correspondences</title>
+    <link rel="icon" href="/assets/favicon.png" />
+    <!-- Run before anything else -->
+    <script>
+      const script = document.createElement("script");
+      script.src = "/scripts/versionCheck.js?v=" + Date.now();
+      document.head.appendChild(script);
+    </script>
+    
+    <!-- Template scripts -->
+    <link rel="stylesheet" href="/style.css" />
+    <script src="/scripts/header.js" defer></script>
+    <script src="/scripts/footer.js" defer></script>
+    <script src="/scripts/trail.js" defer></script>
+    <script src="https://u.widget.st/ar.js" defer></script>
+    
+    <!-- Scripts needed for page contents go here -->
+    <script type="module" src="/scripts/sharedCorr.js" defer></script>
+    <script type="module" src="/scripts/paginationCorrespondences.js" defer></script>
+  </head>
+  <body>
+    <div id="header"></div>
+    <main>
+      <div class="content-box">
+        <br>
+        <p>Alphabetical list of entries.</p>
+        <p>Currently Viewing: <span id="filteredCount">...</span> out of <span id="entryCount">...</span> Entries</p>
+        <br>
+        <div id="filters">
+          <label for="filterCategory">Category:</label>
+          <select id="filterCategory">
+            <option value="all">All</option>
+          </select>
+        </div>
+        <div id="sortButtons">
+          
+          <button id="resetFilters" class="hover-button">Reset Filters</button>
+          <button id="sortName" class="hover-button">Sort by Name</button>
+          <button id="sortCategory" class="hover-button">Sort by Category</button>
+        </div>
+        <div id="tableContainer">
+          <div id="paginationUpper"></div>
+          
+          <br>
+          <hr>
+          <br>
+          
+          <table border="1" id="tablePaginated">
+            <tr>
+              <th></th>
+              <th>Name</th>
+              <th>Category</th>
+            </tr>
+          </table>
+          <div id="paginationLower"></div>
+        </div>
+      </div>
+      <div id="footer"></div>
+    </main>
+  </body>
+</html>
