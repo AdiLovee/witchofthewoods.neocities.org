@@ -20,11 +20,14 @@ HEAD.innerHTML = `
           <br>
         </section>
         <section class="home-box">
-          <ws-widget type="moon" iid="21075" embed="iframe"></ws-widget>
+          <div>
+          <iframe sandbox="allow-scripts" referrerpolicy="no-referrer" title="Moon phase" src="https://moonphasesoftware.com/embed/moon-phase?tz=America%2FToronto&theme=dark&hemisphere=north" width="280" height="240" style="border:0"></iframe>
+          <br><a href="https://moonphasesoftware.com/moon-phase-widget">Check your local moon phase!</a>
+          </div>
         </section>
       </div>
       <div class="header-center">      
-        <nav class="site-nav">
+        <nav class="site-nav"><b>
           <ul>
             <li><a href="/index.html">Home</a></li>
             <li><a href="/grimoire.html">Grimoire</a></li>
@@ -32,7 +35,7 @@ HEAD.innerHTML = `
             <li><a href="/sites.html">Other Sites</a></li>
             <li><a href="/funstuff.html">Fun Stuff</a></li>
             <li><a href="/guestbook.html">Guestbook</a></li>
-          </ul>
+          </ul></b>
         </nav>
       </div>
       </div>

@@ -7,67 +7,79 @@ FOOT.innerHTML = `
         <a href="https://xandra.cc/patrons" target="_new"><img class="badge" src="/assets/buttons/patrons.png"></a><br>
         🐱<a href="/entries/freyja.html">Freyja</a> watches over this website.🐱<br>
         <img src="/assets/crow-flipped.png" style=height:18px; width:18px;><a href="/entries/the_morrigan.html">The Morrígan</a> watches over this website.<img src="/assets/crow.png" style=height:18px; width:18px;>
-        <br>
-        <br>
-        <a href="https://neopets.com"><img class="badge" src="/assets/buttons/neopets.gif"></a>
-        <a href="https://archive.org"><img class="badge" src="/assets/buttons/archive.png"></a>
-        <a href="https://webkinz.com"><img class="badge" src="/assets/buttons/webkinz.png"></a>
-        <br>
-        <a href="/guestbook.html"><img class="badge" src="/assets/buttons/guestbook.gif"></a>
-        <img class="badge" src="/assets/buttons/bookmark_this_page.gif">
-        <br>
-        <a href="https://discord.com/users/338939302971179009"> <img class="badge" src="/assets/buttons/discord.png"></a>
-        <a href="https://github.com/AdiLovee"><img class="badge" src="/assets/buttons/github.png"></a>
-        <a href="https://steamcommunity.com/id/adilovee/"><img class="badge" src="/assets/buttons/steam.png"></a>
-        <br>
-        <a href="mailto:adi.matt1227@gmail.com"><img class="badge" src="/assets/buttons/email.png"></a>
-        <img class="badge" src="/assets/buttons/webp.png">
-        <br>
-        <img class="badge" src="/assets/buttons/acab2.gif">
-        <img class="badge" src="/assets/buttons/indy.png">
-        <a href="https://plasticdino.neocities.org/"> <img class="badge" src="/assets/buttons/queer.png"></a>
-        <br>
-        <img class="badge" src="/assets/buttons/goddess.gif">
-        <img class="badge" src="/assets/buttons/pagan_proud.gif">
-        <br>
-        <img class="badge" src="/assets/buttons/piracy.gif">
-        <a href="https://neocities.org/"><img class="badge" src="/assets/buttons/deletetwitter.gif"></a>
-        <img class="badge" src="/assets/buttons/emulatenow.gif">
-        <br>
-        <a href="https://bdsmovement.net/"> <img class="badge" src="/assets/buttons/palestine.gif"></a>
-        <img class="badge" src="/assets/buttons/ANARCHIST.png">
-        <br>
-        <img class="badge" src="/assets/buttons/transrightsnow.png">
-        <img class="badge" src="/assets/buttons/transgenderism.png">
-        <img class="badge" src="/assets/buttons/gender.gif">
-        <br>
-        <br>
-        <img class="stamp" src="/assets/stamps/ilovestamps.gif">
-        <img class="stamp" src="/assets/stamps/opinions.png">
-        <br>
-        <img class="stamp" src="/assets/stamps/trans.png">
-        <img class="stamp" src="/assets/stamps/she her hers.png">
-        <img class="stamp" src="/assets/stamps/lez.png">
-        <br>
-        <img class="stamp" src="/assets/stamps/oldweb.png">
-        <img class="stamp" src="/assets/stamps/selftaughtcoder.png">
-        <br>
-        <img class="stamp" src="/assets/stamps/pagan stamp.png">
-        <img class="stamp" src="/assets/stamps/witch.gif">
-        <img class="stamp" src="/assets/stamps/crow.gif">
+      </div>
+      <div class="home-boxes">
+        <section class="home-box">
+          <big><b>Buttons!!</b></big><br><br>
+          <a href="https://neopets.com"><img class="badge" src="/assets/buttons/neopets.gif"></a>
+          <a href="https://archive.org"><img class="badge" src="/assets/buttons/archive.png"></a>
+          <a href="https://webkinz.com"><img class="badge" src="/assets/buttons/webkinz.png"></a>
+          <br>
+          <a href="/guestbook.html"><img class="badge" src="/assets/buttons/guestbook.gif"></a>
+          <img class="badge" src="/assets/buttons/bookmark_this_page.gif">
+          <br>
+          <a href="https://discord.com/users/338939302971179009"> <img class="badge" src="/assets/buttons/discord.png"></a>
+          <a href="https://github.com/AdiLovee"><img class="badge" src="/assets/buttons/github.png"></a>
+          <a href="https://steamcommunity.com/id/adilovee/"><img class="badge" src="/assets/buttons/steam.png"></a>
+          <br>
+          <a href="mailto:adi.matt1227@gmail.com"><img class="badge" src="/assets/buttons/email.png"></a>
+          <img class="badge" src="/assets/buttons/webp.png">
+          <br>
+          <img class="badge" src="/assets/buttons/acab2.gif">
+          <img class="badge" src="/assets/buttons/indy.png">
+          <a href="https://plasticdino.neocities.org/"> <img class="badge" src="/assets/buttons/queer.png"></a>
+          <br>
+          <img class="badge" src="/assets/buttons/goddess.gif">
+          <img class="badge" src="/assets/buttons/pagan_proud.gif">
+          <br>
+          <img class="badge" src="/assets/buttons/piracy.gif">
+          <a href="https://neocities.org/"><img class="badge" src="/assets/buttons/deletetwitter.gif"></a>
+          <img class="badge" src="/assets/buttons/emulatenow.gif">
+          <br>
+          <a href="https://bdsmovement.net/"> <img class="badge" src="/assets/buttons/palestine.gif"></a>
+          <img class="badge" src="/assets/buttons/ANARCHIST.png">
+          <br>
+          <img class="badge" src="/assets/buttons/transrightsnow.png">
+          <img class="badge" src="/assets/buttons/transgenderism.png">
+          <img class="badge" src="/assets/buttons/gender.gif">
+        </section>
+        <section class="home-box">
+          <big><b>Stamps!!</b></big><br><br>
+          <img class="stamp" src="/assets/stamps/ilovestamps.gif">
+          <img class="stamp" src="/assets/stamps/opinions.png">
+          <br>
+          <img class="stamp" src="/assets/stamps/trans.png">
+          <img class="stamp" src="/assets/stamps/she her hers.png">
+          <img class="stamp" src="/assets/stamps/lez.png">
+          <br>
+          <img class="stamp" src="/assets/stamps/oldweb.png">
+          <img class="stamp" src="/assets/stamps/selftaughtcoder.png">
+          <br>
+          <img class="stamp" src="/assets/stamps/moon.gif">
+          <img class="stamp" src="/assets/stamps/plantfriends.png">
+          <img class="stamp" src="/assets/stamps/crow.gif">
+          <br>
+          <img class="stamp" src="/assets/stamps/pagan stamp.png">
+          <img class="stamp" src="/assets/stamps/witch.gif">
+        </section>
       </div>
       <br>
       <div>
-        <p>Link me!</p>
-        <a href="/index.html">
-          <img class="badge" src="/assets/sitebutton.gif" alt="Witch of the Woods Button">
-        </a>
+        <p><b>Link me!</b></p>
+        <p>
+          <a href="/index.html">
+            <img class="badge" src="/assets/sitebutton.gif" alt="Witch of the Woods Button">
+          </a>
+        </p>
         <p>
           If you like my site, feel free to save my button and share it on your site!
         </p>
-        <textarea readonly onclick="this.select();">
-          "<a href="https://witchofthewoods.neocities.org/"> <img src=https://witchofthewoods.neocities.org/assets/sitebutton.gif" alt="Witch of the Woods Button"> </a>"
-        </textarea>
+        <br>
+        <p>
+          <textarea readonly onclick="this.select();">
+            "<a href="https://witchofthewoods.neocities.org/"> <img src=https://witchofthewoods.neocities.org/assets/sitebutton.gif" alt="Witch of the Woods Button"> </a>"
+          </textarea>
+        </p>
       </div>
       <br>
       <hr>

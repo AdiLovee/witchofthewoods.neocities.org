@@ -469,3 +469,151 @@ header .home-box:has(ws-widget) {
   justify-content: center;
   align-items: center;
 }
+
+.popup-box {
+  background: #0f1412;
+  color: #99B686;
+  padding: 2rem;
+  max-width: 420px;
+  text-align: center;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(125, 249, 197, 0.34);
+  border: 1px solid #99B686;
+  font-family: inherit;
+}
+
+.popup-box h2{
+  margin-bottom: 7px;
+  margin-top: 7px;
+}
+
+.popup-buttons {
+  margin-top: 1.5rem;
+}
+
+.popup-buttons button {
+  margin: 0.3rem;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: 0.2s ease;
+}
+
+#enter-site {
+    background: #99B686;
+    color: #0f1412;
+    border: none;
+}
+
+#leave-site {
+    background: transparent;
+    color: #e8cab2;
+    border: 1px solid #e8cab2;
+}
+
+
+/* Center the popup on this page only */
+#witch-popup {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+#witch-popup .popup-box {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 420px;
+}
+
+/* Fix heading spacing */
+#witch-popup .popup-box h2 {
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+
+
+/* Full-screen dimmed overlay */
+#witch-popup {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 99999;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  box-sizing: border-box;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+/* Popup panel */
+#witch-popup .popup-box {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 420px;
+  max-height: calc(100vh - 2rem);
+  overflow-y: auto;
+  background: #0f1412;
+  color: #99B686;
+  padding: 2rem;
+  text-align: center;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(125, 249, 197, 0.34);
+  border: 1px solid #99B686;
+  font-family: inherit;
+}
+
+#witch-popup .popup-box h2 {
+  margin: 7px 0;
+}
+
+#witch-popup .popup-buttons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 1.5rem;
+}
+
+#witch-popup .popup-buttons button,
+#witch-popup .popup-buttons a {
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-decoration: none;
+  transition: 0.2s ease;
+}
+
+#witch-popup #enter-site {
+  background: #99B686;
+  color: #0f1412;
+  border: 1px solid #99B686;
+}
+
+#witch-popup #leave-site {
+  background: transparent;
+  color: #e8cab2;
+  border: 1px solid #e8cab2;
+}
+
+#witch-popup #enter-site:hover {
+  filter: brightness(1.15);
+}
+
+#witch-popup #leave-site:hover {
+  background: #e8cab2;
+  color: #0f1412;
+}

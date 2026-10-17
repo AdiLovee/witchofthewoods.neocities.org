@@ -47,7 +47,7 @@ function formatDropdownCategory(category) {
 
 // Entry page URL.
 function getEntryURL(entry) {
-  return `./entries/${encodeURIComponent(entry.link)}.html`;
+  return `./entries/${entry.link}.html`;
 }
 
 // Thumbnail path.

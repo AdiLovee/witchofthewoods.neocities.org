@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Witch of the Woods - Grimoire</title>
+    <link rel="icon" href="/assets/favicon.png" />
+    <!-- Run before anything else -->
+    <script>
+      const script = document.createElement("script");
+      script.src = "/scripts/versionCheck.js?v=" + Date.now();
+      document.head.appendChild(script);
+    </script>
+    
+    <!-- Template scripts -->
+    <link rel="stylesheet" href="/style.css" />
+    <script src="/scripts/header.js" defer></script>
+    <script src="/scripts/footer.js" defer></script>
+    <script src="/scripts/trail.js" defer></script>
+    <script src="https://u.widget.st/ar.js" defer></script>
+    
+    <!-- Scripts needed for page contents go here -->
+  </head>
+  <body>
+    <div id="header"></div>
+    <main>
+      <div class="content-box">
+        <section>
+          <center>
+            <h2>Sunstone</h2>
+          </center>
+          <table border="0" id="tablePaginated">
+            <tr>
+              <th>Element</th>
+              <th>Planet</th>
+              <th>Constellation</th>
+              <th>Deities</th>
+            </tr>
+            <tr>
+              <td>Fire</td>
+              <td>Sun</td>
+              <td>Leo</td>
+              <td>Ra, Apollo, Freyr</td>
+            </tr>
+          </table>
+          <br>
+          <hr>
+          <br>
+          <h4>Usages</h4>
+          <ul>
+            <li>Solar energy and vitality</li>
+            <li>Confidence and authentic self-expression</li>
+            <li>Leadership and personal power</li>
+            <li>Dispelling depression and seasonal heaviness</li>
+            <li>Joy and optimism</li>
+          </ul>
+        </section>
+      </div>
+    <div id="footer"></div>
+    </main>
+  </body>
+</html>
