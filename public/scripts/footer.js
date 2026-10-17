@@ -1,8 +1,8 @@
 const FOOT = document.getElementById("footer");
 FOOT.innerHTML = `
   <br>
-  <center>
-    <div class="content-box">
+  <div class="content-box">
+    <center>
       <div>
         <a href="https://xandra.cc/patrons" target="_new"><img class="badge" src="/assets/buttons/patrons.png"></a><br>
         🐱<a href="/entries/freyja.html">Freyja</a> watches over this website.🐱<br>
@@ -83,18 +83,18 @@ FOOT.innerHTML = `
       </div>
       <pre>
         <span style="font-size:20px">
-🕯 ⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆ ⛥ ⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆ 🕯
-___🕯___
-.-'\`  /\\  \`'-.
-🕯.'_____/__\\_____\`.🕯
-/ \`._  /    \\  _.\` \\
-|     \`/      \\'     |
-|     / \`-..-' \\     |
-\\   /  .-'\`-.  \\   /
-\`./.-'      \`-.\\.'
-🕯\`-..______..-'🕯
+          🕯 ⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆ ⛥ ⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆ 🕯
+          ___🕯___
+          .-'\`  /\\  \`'-.
+          🕯.'_____/__\\_____\`.🕯
+          / \`._  /    \\  _.\` \\
+          |     \`/      \\'     |
+          |     / \`-..-' \\     |
+          \\   /  .-'\`-.  \\   /
+          \`./.-'      \`-.\\.'
+          🕯\`-..______..-'🕯
 
-🕯 ⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆ ⛥ ⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆ 🕯
+          🕯 ⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆ ⛥ ⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆ 🕯
         </span>
       </pre>
       <a href="/construction.html"><img class="badge" src="/assets/construction2.png" width="465" height="28" alt="Under Construction"></a>
