@@ -5,8 +5,8 @@ FOOT.innerHTML = `
     <center>
       <div>
         <a href="https://xandra.cc/patrons" target="_new"><img class="badge" src="/assets/buttons/patrons.png"></a><br>
-        🐱<a href="/entries/freyja.html">Freyja</a> watches over this website.🐱<br>
-        <img src="/assets/crow-flipped.png" style=height:18px; width:18px;><a href="/entries/the_morrigan.html">The Morrígan</a> watches over this website.<img src="/assets/crow.png" style=height:18px; width:18px;>
+        🐱<a href="/entries/deities/nordic/freyja.html">Freyja</a> watches over this website.🐱<br>
+        <img src="/assets/crow-flipped.png" style=height:18px; width:18px;><a href="/entries/deities/celtic/the_morrigan.html">The Morrígan</a> watches over this website.<img src="/assets/crow.png" style=height:18px; width:18px;>
       </div>
       <div class="home-boxes">
         <section class="home-box">

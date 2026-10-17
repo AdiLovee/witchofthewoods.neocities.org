@@ -814,35 +814,35 @@
       "category": ["crystals"]
     },{
       "title": "Hecate",
-      "link": "deities/hecate",
+      "link": "deities/hellenic/hecate",
       "category": ["deities", "deities-hellenic"]
     },{
       "title": "Lilith",
-      "link": "deities/lilith",
-      "category": ["deities"]
+      "link": "deities/abrahamic/lilith",
+      "category": ["deities", "deities-abrahamic"]
     },{
       "title": "The Morrígan",
-      "link": "deities/the_morrigan",
+      "link": "deities/celtic/the_morrigan",
       "category": ["deities", "deities-celtic"]
     },{
       "title": "Freyja",
-      "link": "deities/freyja",
+      "link": "deities/nordic/freyja",
       "category": ["deities", "deities-nordic"]
     },{
       "title": "Brigid",
-      "link": "deities/brigid",
+      "link": "deities/celtic/brigid",
       "category": ["deities", "deities-celtic"]
     },{
       "title": "Demeter",
-      "link": "deities/demeter",
+      "link": "deities/hellenic/demeter",
       "category": ["deities", "deities-hellenic"]
     },{
       "title": "Athena",
-      "link": "deities/athena",
+      "link": "deities/hellenic/athena",
       "category": ["deities", "deities-hellenic"]
     },{
       "title": "Selene",
-      "link": "deities/selene",
+      "link": "deities/hellenic/selene",
       "category": ["deities", "deities-hellenic"]
     }
   ]

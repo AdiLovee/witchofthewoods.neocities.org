@@ -24,7 +24,9 @@ function formatCategory(category) {
   const labels = {
     "deities-hellenic": "Hellenic",
     "deities-nordic": "Nordic",
-    "deities-celtic": "Celtic"
+    "deities-celtic": "Celtic",
+    "deities-abrahamic": "Abrahamic",
+    "deities-kemetic": "Kemetic"
   };
 
   if (!category) return "Unknown";
@@ -39,7 +41,9 @@ function formatDropdownCategory(category) {
   const labels = {
     "deities-hellenic": "- Hellenic",
     "deities-nordic": "- Nordic",
-    "deities-celtic": "- Celtic"
+    "deities-celtic": "- Celtic",
+    "deities-kemetic": "- Kemetic",
+    "deities-abrahamic": "- Abrahamic"
   };
 
   return labels[category] || formatCategory(category);
