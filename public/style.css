@@ -470,51 +470,6 @@ header .home-box:has(ws-widget) {
   align-items: center;
 }
 
-.popup-box {
-  background: #0f1412;
-  color: #99B686;
-  padding: 2rem;
-  max-width: 420px;
-  text-align: center;
-  border-radius: 12px;
-  box-shadow: 0 0 20px rgba(125, 249, 197, 0.34);
-  border: 1px solid #99B686;
-  font-family: inherit;
-}
-
-.popup-box h2{
-  margin-bottom: 7px;
-  margin-top: 7px;
-}
-
-.popup-buttons {
-  margin-top: 1.5rem;
-}
-
-.popup-buttons button {
-  margin: 0.3rem;
-  padding: 0.6rem 1.2rem;
-  border-radius: 6px;
-  cursor: pointer;
-  font-size: 0.85rem;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  transition: 0.2s ease;
-}
-
-#enter-site {
-    background: #99B686;
-    color: #0f1412;
-    border: none;
-}
-
-#leave-site {
-    background: transparent;
-    color: #e8cab2;
-    border: 1px solid #e8cab2;
-}
-
-
 /* Center the popup on this page only */
 #witch-popup {
   position: fixed;
@@ -559,13 +514,13 @@ header .home-box:has(ws-widget) {
   max-width: 420px;
   max-height: calc(100vh - 2rem);
   overflow-y: auto;
-  background: #0f1412;
-  color: #99B686;
+  background: var(--violet);
+  color: var(--lilac);
   padding: 2rem;
   text-align: center;
   border-radius: 12px;
-  box-shadow: 0 0 20px rgba(125, 249, 197, 0.34);
-  border: 1px solid #99B686;
+  box-shadow: 0 0 20px var(--link-visited);
+  border: 1px solid var(--link);
   font-family: inherit;
 }
 
@@ -598,15 +553,15 @@ header .home-box:has(ws-widget) {
 }
 
 #witch-popup #enter-site {
-  background: #99B686;
-  color: #0f1412;
-  border: 1px solid #99B686;
+  background: var(--lilac);
+  color: var(--violet);
+  border: 1px solid var(--lilac);
 }
 
 #witch-popup #leave-site {
   background: transparent;
-  color: #e8cab2;
-  border: 1px solid #e8cab2;
+  color: var(--lilac);
+  border: 1px solid var(--lilac);
 }
 
 #witch-popup #enter-site:hover {
@@ -614,6 +569,6 @@ header .home-box:has(ws-widget) {
 }
 
 #witch-popup #leave-site:hover {
-  background: #e8cab2;
-  color: #0f1412;
+  background: var(--lilac);
+  color: var(--violet);
 }
